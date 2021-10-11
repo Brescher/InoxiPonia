@@ -1,0 +1,38 @@
+body {
+    background: #353535;
+    font-family: Arial, Verdana, sans-serif;
+    color: lightgray;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: lightgray;
+}
+
+.navbar .navbar-collapse .navbar-nav .nav-item a:hover{
+    display: block;
+    color: gold;
+}
+
+.navbar{
+    background-color: #353535;
+}
+
+.card {
+    display:inline-block;
+    background-color: #353535;
+    color: lightgray;
+}
+
+.card .card-body h1{
+    font-size: 100%;
+}
+
+.card-img-top{
+    width:100%;
+    height:auto;
+}
+
+hr{
+    border-radius: 1px;
+    color: lightgray;
+}
