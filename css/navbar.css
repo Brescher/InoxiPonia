@@ -1,0 +1,13 @@
+
+.navbar-nav .nav-item .nav-link{
+    color: lightgray;
+}
+
+.navbar .navbar-collapse .navbar-nav .nav-item a:hover{
+    display: block;
+    color: gold;
+}
+
+.navbar{
+    background-color: #353535;
+}
