@@ -17,22 +17,25 @@ body {
     background-color: #353535;
 }
 
-.card {
-    display:inline-block;
-    background-color: #353535;
-    color: lightgray;
-}
-
-.card .card-body h1{
-    font-size: 100%;
-}
-
-.card-img-top{
-    width:100%;
-    height:auto;
-}
-
 hr{
     border-radius: 1px;
     color: lightgray;
 }
+
+.Border{
+    width:15%;
+    height: 100%;
+    float: left;
+}
+
+.homeEntry{
+    width: 30%;
+    float: left;
+}
+
+.middleBorder{
+    width:10%;
+    height: 100%;
+    float: left;
+}
+
