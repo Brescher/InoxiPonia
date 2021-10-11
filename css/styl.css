@@ -22,20 +22,29 @@ hr{
     color: lightgray;
 }
 
-.Border{
-    width:15%;
-    height: 100%;
-    float: left;
-}
-
 .homeEntry{
+    margin-left: 15%;
+    padding: 10px;
+}
+
+.homeEntryLeft{
     width: 30%;
-    float: left;
+    max-height: 15%;
+    padding-top: 5px;
 }
 
-.middleBorder{
-    width:10%;
-    height: 100%;
-    float: left;
+.homeEntryRight{
+    margin-left: 10%;
+    width: 30%;
+    max-height: 15%;
+    padding-top: 5px;
 }
 
+.homeEntryRight, .homeEntryLeft{
+    display:inline;
+}
+
+.homeEntryImage, .homeEntryText{
+    width:15%;
+    float: left;
+}
