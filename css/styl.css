@@ -7,3 +7,7 @@ body {
 .row{
     margin-bottom: 40px;
 }
+
+.text{
+    border-left: 2px solid white;
+}
