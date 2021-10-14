@@ -1,7 +1,16 @@
 body {
     background: #353535;
+}
+
+p{
     font-family: Arial, Verdana, sans-serif;
     color: lightgray;
+}
+
+h3{
+    font-family: Arial, Verdana, sans-serif;
+    color: lightgray;
+    text-align: center;
 }
 
 .row{
@@ -26,3 +35,4 @@ body {
     width:100%;
     height:auto;
 }
+
