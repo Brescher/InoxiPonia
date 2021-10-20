@@ -13,8 +13,23 @@ h3{
     text-align: center;
 }
 
-.row{
+.entry{
     margin-bottom: 50px;
+}
+
+.header .col-md-1, .col-md-8{
+    text-transform: uppercase;
+    line-height: 22px;
+    margin: 0px;
+}
+
+.header p{
+    margin-bottom: 0px;
+}
+
+.header img {
+    max-height: 22px;
+    max-width: 22px;
 }
 
 .text{
